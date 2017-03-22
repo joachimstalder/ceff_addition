@@ -1,7 +1,7 @@
 {
   "name": "addition",
   "version": "1.0.0",
-  "description": "",
+  "description": "ceff addition",
   "main": "addition.js",
   "dependencies": {
     "jquery": "^3.2.1"
