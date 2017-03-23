@@ -11,9 +11,8 @@ function add() {
         data: {
             number1: number1,
             number2: number2
-        },
-        success: function (result) {
-            $("#result").text(result);
         }
+    }).done(function(result){
+        $("#result").text(result);
     });
 }
